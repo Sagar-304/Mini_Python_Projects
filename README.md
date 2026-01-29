@@ -32,12 +32,13 @@ These projects help me work with:
 ## 📂 Projects Included
 
 Some examples of projects you may find in this repository:
-- Student Management System  
-- Basic Calculator  
-- Number Guessing Game  
-- To-Do List  
-- Pattern Printing Programs  
-- Other logic-based mini projects  
+🧮 Calculator
+
+📇 Contact Manager
+
+🔢 Number Toolkit
+
+📅 Calendar 
 
 *(More projects will be added as I continue learning 🚀)*
 
