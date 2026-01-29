@@ -32,13 +32,10 @@ These projects help me work with:
 ## 📂 Projects Included
 
 Some examples of projects you may find in this repository:
--🧮 Calculator
-
--📇 Contact Manager
-
--🔢 Number Toolkit
-
--📅 Calendar 
+- 🧮 Calculator
+- 📇 Contact Manager
+- 🔢 Number Toolkit
+- 📅 Calendar
 
 *(More projects will be added as I continue learning 🚀)*
 
@@ -57,4 +54,5 @@ Some examples of projects you may find in this repository:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/repository-name.git
+
 
