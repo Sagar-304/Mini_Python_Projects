@@ -1,4 +1,3 @@
-
 contacts = [{"Name":"Sagar","Age":17,"Mobile":4357943579},{"Name":"Shikhar","Age":20,"Mobile":893274937},{"Name":"Harpreet","Age":19,"Mobile":237498237}]
 
 # what user want to do
@@ -82,6 +81,7 @@ else:
 
 
    
+
 
 
   
